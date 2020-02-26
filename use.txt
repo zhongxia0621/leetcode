@@ -1,0 +1,10 @@
+第一次发布项目：
+git add .            //文件暂存区
+git commit -m "注释内容"    //暂存区-本地分支 （默认master）
+git push -u origin master
+第一次下载项目：
+git clone git@github.com:zhongxia0621/leetcode.git
+第二次发布项目：
+git add .            //文件暂存区
+git commit -m "注释内容"    //暂存区-本地分支 （默认master）
+git push origin master
